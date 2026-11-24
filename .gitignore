@@ -1,0 +1,10 @@
+db/
+incremental_db/
+output_files/
+*.qws
+*.bak
+a.elf
+a.bin
+a.dump
+docs/video/
+docs/video/
